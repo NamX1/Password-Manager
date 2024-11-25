@@ -1,5 +1,3 @@
-Sure! Below is a sample `README.md` file for your Password Manager project:
-
 ```markdown
 # Password Manager
 
